@@ -1,4 +1,5 @@
 ### Hey! I am Shrey Ghelani 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrey139" alt="Shrey139" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on Data Science
