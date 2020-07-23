@@ -1,5 +1,5 @@
 ### Hi there 👋
-![EnzoAnimoji](https://user-images.githubusercontent.com/20175372/87330405-d1fbc500-c538-11ea-8dca-55854d681b31.gif)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Tensorflow and keras
