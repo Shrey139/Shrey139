@@ -13,6 +13,5 @@
   <a href="https://www.linkedin.com/in/shrey-ghelani/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="https://discord.com/users/Shrey139#1054"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/GhelaniShrey"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://medium.com/@shrey.apple139"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/medium.ico" width="30px" alt="medium"></a> &nbsp; &nbsp;
   <a href="https://Shrey139.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
