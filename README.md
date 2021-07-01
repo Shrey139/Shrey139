@@ -1,9 +1,9 @@
 ### Hey! I am Shrey Ghelani 👋
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🔭 I’m currently working on Data Science
+- 🔭 I’m currently working on Data Science and backend technologies like Django and flask
 - 🌱 I’m currently learning Tensorflow and keras
-- 👯 I’m looking to collaborate on Data Science
+- 👯 I’m looking to collaborate on Data Science and Django
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Shrey139&show_icons=true&hide_border=true)
